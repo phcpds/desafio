@@ -1,0 +1,17 @@
+# API (Java/Spring)
+producerapi/target/
+producerapi/.idea/
+producerapi/.classpath
+producerapi/.project
+
+# Frontend (Angular/React)
+producerui/node_modules/
+producerui/dist/
+producerui/.angular/
+producerui/.next/
+producerui/.env
+
+# Geral
+*.log
+*.env
+.DS_Store
